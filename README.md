@@ -1,7 +1,11 @@
-# scss-clone-project
+# SCSS Clone Project
+
+## 프로젝트 설명
+
+- scss를 이용하여 각 메인 페이지 디자인을 클론합니다.
 
 ## LINEBANK-clone-scss
- LINEBANK clone using SCSS
+
 
 원본 : https://www.linebank.com.tw/
 
@@ -12,7 +16,7 @@
 
 
 ## youtube-clone-scss
- youtube main clone using SCSS
+ 
 
 원본 : https://www.youtube.com/
 
