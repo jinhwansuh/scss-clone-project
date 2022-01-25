@@ -4,7 +4,7 @@
 
 - scss를 이용하여 각 메인 페이지 디자인을 클론합니다.
 
-## LINEBANK-clone-scss
+### LINEBANK Clone SCSS
 
 
 원본 : https://www.linebank.com.tw/
@@ -15,7 +15,7 @@
 
 
 
-## youtube-clone-scss
+### YOUTUBE Clone SCSS
  
 
 원본 : https://www.youtube.com/
