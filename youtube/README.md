@@ -1,5 +1,5 @@
-# youtube-clone-scss
- youtube main clone using SCSS
+# YOUTUBE Clone scss
+ 
 
 원본 : https://www.youtube.com/
 
