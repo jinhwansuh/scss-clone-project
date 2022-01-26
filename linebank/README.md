@@ -1,5 +1,4 @@
-# LINEBANK-clone-scss
- LINEBANK clone using SCSS
+# LINEBANK Clone scss
 
 원본 : https://www.linebank.com.tw/
 
